@@ -1,3 +1,4 @@
+[ppt bank loan case study.pptx.pdf](https://github.com/user-attachments/files/19600956/ppt.bank.loan.case.study.pptx.pdf)
 # Bank-Loan-Case-Study
 The main aim of this project is to identify patterns that indicate if a customer will have difficulty paying their installments. 
 
